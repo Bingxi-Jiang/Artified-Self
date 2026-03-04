@@ -1,5 +1,5 @@
 
-# 🧩 Mosaic — Piece together your life
+# 🧩 Artified Self: Multimodal AI Personal Narrative Engine
 
 <p align="center">
   <b>An AI-assisted daily life recap system that captures context, protects privacy, builds a timeline, and generates a reflective daily report.</b>
@@ -16,9 +16,9 @@
 
 ---
 
-## ✨ What Mosaic does
+## ✨ What Artified Self does
 
-Mosaic helps you **capture and reconstruct your day** from lightweight desktop screenshots and context signals, then turns that data into:
+Artified Self helps you **capture and reconstruct your day** from lightweight desktop screenshots and context signals, then turns that data into:
 
 - a **readable timeline** of your day
 - **feedback events** (gentle nudges / observations)
@@ -355,13 +355,6 @@ PRs are welcome, especially for:
 * privacy detection improvements
 * schema documentation
 * export integrations (Notion / Obsidian / etc.)
-
----
-
-## 📄 License
-
-No license is currently specified in this repository.
-If you plan to open-source contributions broadly, consider adding a license file (MIT / Apache-2.0 / GPL, etc.).
 
 ---
 
